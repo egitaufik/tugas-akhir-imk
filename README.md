@@ -1,2 +1,3 @@
 # tugas-akhir-imk
-itu baru tampilan login, tinggal tampilan web aplikasinya.
+git clone https://github.com/egitaufik/tugas-akhir-imk.git
+
