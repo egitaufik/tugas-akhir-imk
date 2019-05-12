@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "maunc",
+			"path": "D:\\maunc"
+		}
+	],
+	"settings": {
+		"terminal.integrated.env.windows": {
+			"PATH": "C:\\Users\\egi\\.platformio\\penv\\Scripts;C:\\Users\\egi\\.platformio\\penv;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\iCLS\\;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\iCLS\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\java\\jdk-11.0.2\\bin;C:\\Program Files\\nodejs\\;C:\\Python27;C:\\Program Files\\Git\\cmd;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Ruby23\\bin;C:\\Users\\egi\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Windows\\System32;C:\\Users\\egi\\AppData\\Roaming\\npm;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\iCLS\\;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\iCLS\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\java\\jdk-11.0.2\\bin;C:\\Program Files\\nodejs\\;C:\\Python27;C:\\Program Files\\Git\\cmd;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Ruby23\\bin;C:\\Users\\egi\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Windows\\System32;C:\\Users\\egi\\AppData\\Roaming\\npm",
+			"PLATFORMIO_CALLER": "vscode"
+		}
+	}
+}
